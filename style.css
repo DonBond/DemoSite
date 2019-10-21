@@ -28,3 +28,28 @@ body{
   border-color: transparent;
   color: rgb(165, 163, 163) !important;
 }
+
+/* .jumbotron{
+  background-image: url("https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-repeat: no-repeat;
+  height: 600px;
+  overflow: hidden;
+} */
+
+
+.jumbotron{
+  width: 100%;
+  overflow: hidden;
+}
+
+.jumbotron .jumImg{
+  margin: -400px;
+}
+
+
+ .jumbotron span {
+  position: absolute;
+  margin: 0 auto;
+  /* top:20px;
+  left: 15px; */
+ }
